@@ -1,0 +1,67 @@
+﻿  imgui.cpp
+C:\Users\vaynh\Desktop\Advanced-Modern-ImGui-main\imgui-master\imgui.cpp(5450,23): warning C4189: "style": Lokale Variable ist initialisiert aber nicht referenziert
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+C:\Users\vaynh\Desktop\Advanced-Modern-ImGui-main\imgui-master\imgui_widgets.cpp(336,55): warning C4100: "mode": Unreferenzierter formaler Parameter
+C:\Users\vaynh\Desktop\Advanced-Modern-ImGui-main\imgui-master\imgui_widgets.cpp(367,10): warning C4189: "hovered_mode": Lokale Variable ist initialisiert aber nicht referenziert
+C:\Users\vaynh\Desktop\Advanced-Modern-ImGui-main\imgui-master\imgui_widgets.cpp(358,10): warning C4189: "popup_open": Lokale Variable ist initialisiert aber nicht referenziert
+C:\Users\vaynh\Desktop\Advanced-Modern-ImGui-main\imgui-master\imgui_widgets.cpp(359,10): warning C4189: "hovered_rect": Lokale Variable ist initialisiert aber nicht referenziert
+C:\Users\vaynh\Desktop\Advanced-Modern-ImGui-main\imgui-master\imgui_widgets.cpp(1127,37): warning C4459: Deklaration von "ico" blendet globale Deklaration aus
+C:\Users\vaynh\Desktop\Advanced-Modern-ImGui-main\imgui-master\imgui_widgets.cpp(53,16): message : Siehe Deklaration von "ico"
+C:\Users\vaynh\Desktop\Advanced-Modern-ImGui-main\imgui-master\imgui_widgets.cpp(1177,46): warning C4130: "==": Logische Operation mit Adresse einer Zeichenfolgenkonstanten
+C:\Users\vaynh\Desktop\Advanced-Modern-ImGui-main\imgui-master\imgui_widgets.cpp(1179,45): warning C4130: "==": Logische Operation mit Adresse einer Zeichenfolgenkonstanten
+C:\Users\vaynh\Desktop\Advanced-Modern-ImGui-main\imgui-master\imgui_widgets.cpp(1181,45): warning C4130: "==": Logische Operation mit Adresse einer Zeichenfolgenkonstanten
+C:\Users\vaynh\Desktop\Advanced-Modern-ImGui-main\imgui-master\imgui_widgets.cpp(1183,45): warning C4130: "==": Logische Operation mit Adresse einer Zeichenfolgenkonstanten
+C:\Users\vaynh\Desktop\Advanced-Modern-ImGui-main\imgui-master\imgui_widgets.cpp(1185,42): warning C4130: "==": Logische Operation mit Adresse einer Zeichenfolgenkonstanten
+C:\Users\vaynh\Desktop\Advanced-Modern-ImGui-main\imgui-master\imgui_widgets.cpp(1187,48): warning C4130: "==": Logische Operation mit Adresse einer Zeichenfolgenkonstanten
+C:\Users\vaynh\Desktop\Advanced-Modern-ImGui-main\imgui-master\imgui_widgets.cpp(1189,43): warning C4130: "==": Logische Operation mit Adresse einer Zeichenfolgenkonstanten
+C:\Users\vaynh\Desktop\Advanced-Modern-ImGui-main\imgui-master\imgui_widgets.cpp(1191,41): warning C4130: "==": Logische Operation mit Adresse einer Zeichenfolgenkonstanten
+C:\Users\vaynh\Desktop\Advanced-Modern-ImGui-main\imgui-master\imgui_widgets.cpp(1193,44): warning C4130: "==": Logische Operation mit Adresse einer Zeichenfolgenkonstanten
+C:\Users\vaynh\Desktop\Advanced-Modern-ImGui-main\imgui-master\imgui_widgets.cpp(1155,17): warning C4189: "col": Lokale Variable ist initialisiert aber nicht referenziert
+C:\Users\vaynh\Desktop\Advanced-Modern-ImGui-main\imgui-master\imgui_widgets.cpp(1217,35): warning C4459: Deklaration von "ico" blendet globale Deklaration aus
+C:\Users\vaynh\Desktop\Advanced-Modern-ImGui-main\imgui-master\imgui_widgets.cpp(53,16): message : Siehe Deklaration von "ico"
+C:\Users\vaynh\Desktop\Advanced-Modern-ImGui-main\imgui-master\imgui_widgets.cpp(1256,37): warning C4459: Deklaration von "ico" blendet globale Deklaration aus
+C:\Users\vaynh\Desktop\Advanced-Modern-ImGui-main\imgui-master\imgui_widgets.cpp(53,16): message : Siehe Deklaration von "ico"
+C:\Users\vaynh\Desktop\Advanced-Modern-ImGui-main\imgui-master\imgui_widgets.cpp(1284,17): warning C4189: "col": Lokale Variable ist initialisiert aber nicht referenziert
+C:\Users\vaynh\Desktop\Advanced-Modern-ImGui-main\imgui-master\imgui_widgets.cpp(1323,35): warning C4459: Deklaration von "ico" blendet globale Deklaration aus
+C:\Users\vaynh\Desktop\Advanced-Modern-ImGui-main\imgui-master\imgui_widgets.cpp(53,16): message : Siehe Deklaration von "ico"
+C:\Users\vaynh\Desktop\Advanced-Modern-ImGui-main\imgui-master\imgui_widgets.cpp(1712,17): warning C4189: "w": Lokale Variable ist initialisiert aber nicht referenziert
+C:\Users\vaynh\Desktop\Advanced-Modern-ImGui-main\imgui-master\imgui_widgets.cpp(2238,17): warning C4189: "frame_col": Lokale Variable ist initialisiert aber nicht referenziert
+C:\Users\vaynh\Desktop\Advanced-Modern-ImGui-main\imgui-master\imgui_widgets.cpp(2245,15): warning C4189: "bg_col": Lokale Variable ist initialisiert aber nicht referenziert
+C:\Users\vaynh\Desktop\Advanced-Modern-ImGui-main\imgui-master\imgui_widgets.cpp(2246,15): warning C4189: "text_col": Lokale Variable ist initialisiert aber nicht referenziert
+C:\Users\vaynh\Desktop\Advanced-Modern-ImGui-main\imgui-master\imgui_widgets.cpp(2303,10): warning C4189: "popup_open": Lokale Variable ist initialisiert aber nicht referenziert
+C:\Users\vaynh\Desktop\Advanced-Modern-ImGui-main\imgui-master\imgui_widgets.cpp(2300,23): warning C4189: "style": Lokale Variable ist initialisiert aber nicht referenziert
+C:\Users\vaynh\Desktop\Advanced-Modern-ImGui-main\imgui-master\imgui_widgets.cpp(2457,10): warning C4189: "popup_open": Lokale Variable ist initialisiert aber nicht referenziert
+C:\Users\vaynh\Desktop\Advanced-Modern-ImGui-main\imgui-master\imgui_widgets.cpp(2455,23): warning C4189: "style": Lokale Variable ist initialisiert aber nicht referenziert
+C:\Users\vaynh\Desktop\Advanced-Modern-ImGui-main\imgui-master\imgui_widgets.cpp(3600,17): warning C4189: "frame_col": Lokale Variable ist initialisiert aber nicht referenziert
+C:\Users\vaynh\Desktop\Advanced-Modern-ImGui-main\imgui-master\imgui_widgets.cpp(5400,19): warning C4189: "bg_color": Lokale Variable ist initialisiert aber nicht referenziert
+C:\Users\vaynh\Desktop\Advanced-Modern-ImGui-main\imgui-master\imgui_widgets.cpp(5872,99): warning C4100: "ref_col": Unreferenzierter formaler Parameter
+C:\Users\vaynh\Desktop\Advanced-Modern-ImGui-main\imgui-master\imgui_widgets.cpp(5883,17): warning C4189: "width": Lokale Variable ist initialisiert aber nicht referenziert
+C:\Users\vaynh\Desktop\Advanced-Modern-ImGui-main\imgui-master\imgui_widgets.cpp(5910,11): warning C4189: "square_sz": Lokale Variable ist initialisiert aber nicht referenziert
+C:\Users\vaynh\Desktop\Advanced-Modern-ImGui-main\imgui-master\imgui_widgets.cpp(5915,11): warning C4189: "bars_triangles_half_sz": Lokale Variable ist initialisiert aber nicht referenziert
+C:\Users\vaynh\Desktop\Advanced-Modern-ImGui-main\imgui-master\imgui_widgets.cpp(6066,11): warning C4189: "sv_cursor_rad": Lokale Variable ist initialisiert aber nicht referenziert
+C:\Users\vaynh\Desktop\Advanced-Modern-ImGui-main\imgui-master\imgui_widgets.cpp(6042,17): warning C4189: "col_midgrey": Lokale Variable ist initialisiert aber nicht referenziert
+C:\Users\vaynh\Desktop\Advanced-Modern-ImGui-main\imgui-master\imgui_widgets.cpp(6110,17): warning C4189: "w": Lokale Variable ist initialisiert aber nicht referenziert
+C:\Users\vaynh\Desktop\Advanced-Modern-ImGui-main\imgui-master\imgui_widgets.cpp(6923,21): warning C4189: "col": Lokale Variable ist initialisiert aber nicht referenziert
+C:\Users\vaynh\Desktop\Advanced-Modern-ImGui-main\imgui-master\imgui_widgets.cpp(5858,13): warning C4505: "RenderArrowsForVerticalBar": Eine nicht referenzierte Funktion mit interner Verknüpfung wurde entfernt.
+  imgui_impl_dx9.cpp
+  imgui_impl_win32.cpp
+  blur.cpp
+C:\Users\vaynh\Desktop\Advanced-Modern-ImGui-main\imgui-master\examples\example_win32_directx9\blur.cpp(37,22): warning C4389: "!=": Konflikt zwischen "signed" und "unsigned"
+C:\Users\vaynh\Desktop\Advanced-Modern-ImGui-main\imgui-master\examples\example_win32_directx9\blur.cpp(37,56): warning C4389: "!=": Konflikt zwischen "signed" und "unsigned"
+C:\Users\vaynh\Desktop\Advanced-Modern-ImGui-main\imgui-master\examples\example_win32_directx9\blur.cpp(18,41): warning C4100: "parent_list": Unreferenzierter formaler Parameter
+C:\Users\vaynh\Desktop\Advanced-Modern-ImGui-main\imgui-master\examples\example_win32_directx9\blur.cpp(63,45): warning C4100: "parent_list": Unreferenzierter formaler Parameter
+C:\Users\vaynh\Desktop\Advanced-Modern-ImGui-main\imgui-master\examples\example_win32_directx9\blur.cpp(72,46): warning C4100: "parent_list": Unreferenzierter formaler Parameter
+C:\Users\vaynh\Desktop\Advanced-Modern-ImGui-main\imgui-master\examples\example_win32_directx9\blur.cpp(81,39): warning C4100: "parent_list": Unreferenzierter formaler Parameter
+  main.cpp
+C:\Users\vaynh\Desktop\Advanced-Modern-ImGui-main\imgui-master\examples\example_win32_directx9\main.cpp(144,66): warning C4390: ";": Leere kontrollierte Anweisung aufgetreten; ist dies beabsichtigt?
+C:\Users\vaynh\Desktop\Advanced-Modern-ImGui-main\imgui-master\examples\example_win32_directx9\main.cpp(148,64): warning C4390: ";": Leere kontrollierte Anweisung aufgetreten; ist dies beabsichtigt?
+C:\Users\vaynh\Desktop\Advanced-Modern-ImGui-main\imgui-master\examples\example_win32_directx9\main.cpp(91,10): warning C4189: "show_demo_window": Lokale Variable ist initialisiert aber nicht referenziert
+C:\Users\vaynh\Desktop\Advanced-Modern-ImGui-main\imgui-master\examples\example_win32_directx9\main.cpp(92,10): warning C4189: "show_another_window": Lokale Variable ist initialisiert aber nicht referenziert
+C:\Users\vaynh\Desktop\Advanced-Modern-ImGui-main\imgui-master\examples\example_win32_directx9\main.cpp(68,19): warning C4189: "g": Lokale Variable ist initialisiert aber nicht referenziert
+C:\Users\vaynh\Desktop\Advanced-Modern-ImGui-main\imgui-master\examples\example_win32_directx9\main.cpp(125,29): warning C4101: "pDrawList": Unreferenzierte lokale Variable
+C:\Users\vaynh\Desktop\Advanced-Modern-ImGui-main\imgui-master\examples\example_win32_directx9\main.cpp(129,29): warning C4189: "pForegroundDrawList": Lokale Variable ist initialisiert aber nicht referenziert
+  Code wird generiert...
+  example_win32_directx9.vcxproj -> C:\Users\vaynh\Desktop\Advanced-Modern-ImGui-main\imgui-master\examples\example_win32_directx9\Debug\example_win32_directx9.exe
