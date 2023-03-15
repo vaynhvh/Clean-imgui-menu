@@ -10,7 +10,7 @@ Imgui menu 🌌
 
 
 <img src="https://i.ibb.co/sV177gT/image.png" />
-[Youtube Video](https://www.youtube.com/watch?v=Bb1hAypLVT4)
+https://www.youtube.com/watch?v=Bb1hAypLVT4
 
 ---
 
