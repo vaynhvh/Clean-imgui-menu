@@ -13,14 +13,14 @@ GTAV/ALTV/RAGE:MP EXTERNAL 🌌
 <p align="center">
 <b>This project was made for educational purposes!</b>
 <br>
-A Simple imgui menu
+GTAV EXTERNAL was made for educational purposes and personal use. By using our services you agree that you hold responsibility, liability and accountability of any consequences caused by your actions.
 </p>
 
 
 ---
 
 
-<img src="https://i.imgur.com/iAQP28A.png" />
+<img src="https://i.ibb.co/sV177gT/image.png" />
 
 ---
 
@@ -29,20 +29,3 @@ A Simple imgui menu
 
 ---
 
-## <a id="features"></a>🌌 〢 Features
-
-**Aimbot**
-```sh-session
-- Trigger BOt
-- No Recoil
-- One Shoot Kill
-- No Spread
-```
-
-**ESP**
-```sh-session
-- Boxes
-- Skeletons
-- Health
-- Vehicle ESP
-```
